@@ -1,0 +1,10 @@
+// USP-45 (Pistol)
+$random usp/fire = { usp/fire1 usp/fire2 usp/fire3 }
+
+usp/fire1 = "sounds/weapons/USP45/USPFire_1.ogg"
+usp/fire2 = "sounds/weapons/USP45/USPFire_2.ogg"
+usp/fire3 = "sounds/weapons/USP45/USPFire_3.ogg"
+
+usp/reload/clipin  = "sounds/weapons/USP45/USPReload_ClipIn.ogg"
+usp/reload/clipout = "sounds/weapons/USP45/USPReload_ClipOut.ogg"
+usp/reload/slide   = "sounds/weapons/USP45/USPReload_RackSlide.ogg"
